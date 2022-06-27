@@ -1,6 +1,9 @@
 # COMMANDS
 
 ```
+PULL REMOTE CHANGES
+git pull
+
 CREATE A NEW BRANCH
 git checkout -b [branch-name]
 
